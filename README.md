@@ -1,4 +1,3 @@
-
 ### Prerequisites
 
     if (osx || linux) {
@@ -19,7 +18,7 @@ run `appium-doctor` to ensure your system is set up properly
  * Cucumber
  * Maven
  * Spring
-  
+
 ### Highlights:
  * Selenium and Appium Support
  * Page object pattern
@@ -28,6 +27,3 @@ run `appium-doctor` to ensure your system is set up properly
  * Standardized code across all of your test projects
  * Basic helper methods
  * Business readable HTML test results
- 
-
- 

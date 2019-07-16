@@ -3,8 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.mosclofri</groupId>
-        <artifactId>cucumber-ui-automation-framework</artifactId>
+        <groupId>com.github.DogaGucluInfinitec.test</groupId>
+        <artifactId>ui-automation</artifactId>
         <version>0.9.0</version>
     </parent>
 
@@ -13,7 +13,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.mosclofri</groupId>
+            <groupId>com.github.DogaGucluInfinitec.test</groupId>
             <artifactId>java-support-framework</artifactId>
             <version>${project.parent.version}</version>
             <exclusions>
@@ -38,8 +38,14 @@
             </exclusions>
         </dependency>
         <dependency>
-            <groupId>io.github.bonigarcia</groupId>
-            <artifactId>webdrivermanager</artifactId>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-compress</artifactId>
+            <version>1.18</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.11.3</version>
         </dependency>
     </dependencies>
 
