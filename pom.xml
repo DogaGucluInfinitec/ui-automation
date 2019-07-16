@@ -29,7 +29,7 @@
         <github.global.server>github</github.global.server>
         <jfairy-version>0.5.8</jfairy-version>
         <log4j-version>1.2.17</log4j-version>
-        <maven-version-plugin>2.5</maven-version-plugin>
+        <maven-version-plugin>2.7</maven-version-plugin>
         <reporting-version>3.10.0</reporting-version>
         <selenium-java-version>3.141.59</selenium-java-version>
         <selenium-support-version>3.6.0</selenium-support-version>
@@ -252,7 +252,6 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>versions-maven-plugin</artifactId>
-                <version>2.7</version>
                 <inherited>false</inherited>
             </plugin>
             <plugin>
