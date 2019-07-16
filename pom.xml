@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.DogaGucluInfinitec.test</groupId>
-    <artifactId>cucumber-ui-automation-framework</artifactId>
+    <artifactId>ui-automation</artifactId>
     <version>0.9.0</version>
     <packaging>pom</packaging>
 
